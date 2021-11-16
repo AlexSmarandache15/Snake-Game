@@ -7,7 +7,7 @@ import java.util.Random;
 import java.util.stream.IntStream;
 
 /**
- * @author Alex Smarandache
+ * @author  Alex Smarandache
  */
 public class GamePanel extends JPanel implements ActionListener {
 
